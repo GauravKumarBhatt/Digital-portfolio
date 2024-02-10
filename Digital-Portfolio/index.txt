@@ -1,0 +1,264 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Richard hanrick
+Gaurav Bhatt
+Data engineer
+
+Show Contacts
+
+Email
+bhattgaurav349@gmail.com
+
+Phone
++91 9462304840
+
+Birthday
+April 08, 2000
+
+Location
+Moradabad, UP, INDIA
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+I love delving into the depths of my soul and endeavoring to train my neural mind.
+
+I specialize in data development, leveraging a robust background to construct models for data engineering projects. Proficient in Python, Machine Learning, and Data Science, I implement task-oriented strategies to ensure the successful delivery of projects. My skills extend across various tools and technologies, enhancing my ability to contribute to diverse data-related tasks.
+
+Key Strengths:
+• Python Mastery: Proficient in Python, I apply my programming skills to create efficient and scalable solutions for data engineering challenges.
+• Machine Learning Expertise: Well-versed in Machine Learning techniques, I bring a data-driven approach to projects, enhancing their analytical capabilities.
+• Data Science Proficiency: With a solid foundation in Data Science, I contribute insights that drive informed decision-making.
+
+Technological Skills:
+• Apache Airflow: I leverage Apache Airflow to streamline and automate complex data workflows, ensuring efficiency in project execution.
+• Presentation Tools: I excel in using presentation tools like Excel, Power BI, and Tableau to visualize and communicate data insights effectively.
+• Infrastructure Management: Proficient in Virtual Machines, Docker, and Git-GitHub, I ensure robust infrastructure management for seamless project collaboration.
+• Web Frameworks: Well-versed in web frameworks such as Django and Flask, I can create web applications that integrate seamlessly with data solutions.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Data Science
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the Intermediate level.
+
+alt = mobile app icon
+Data Analytics
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+machine Learning
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Henry william
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+University school of the arts
+2007 — 2008
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+Bachelor of Engineering in Computer Science
+Rajarajeswari College of Engineering, Bangalore
+20019 — 2023
+Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+
+Akansha vidyapeeth Inter College, Moradabad(UP)
+2015 — 2017
+Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+
+Experience
+
+Freelance in Upwork
+Dec 2023 — Present
+Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+
+Reserch Analyst Intership
+April 2023 — October 2023
+Foundit (Monster India), Bangalore Online
+– In-depth understanding of research and analysis using Python libraries for data processing and statistical insights.
+– Managed and organized data effectively in Excel, ensuring accuracy and facilitating informed decision-making.
+– Utilized Elastic Search to enhance data retrieval, enabling efficient and structured information access.
+– Developed professional presentations to communicate findings and insights derived from research outcomes.
+
+
+Machine Learning Intern
+Aug 2022 — Sep 2022
+Varcons Technology Pvt Ltd, Bangalore
+– Stockport | Twitter Sentiment Analysis, Purpose of this project was to predict the Stock price of the Company by
+using Twitter Sentiments.
+– Learned basics of Machine Learning and Deep Learning, used NLTK for getting future price of stocks using
+Sentiment Analysis.
+– Learned Dynamic leader skilled in strategic planning, team building, and fostering innovation for organizational
+success.
+
+My skills
+
+Python
+90%
+Data Science
+70%
+Web development
+60%
+Data Analytics
+80%
+Task oriented and Problem Solving
+95%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
